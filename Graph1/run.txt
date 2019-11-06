@@ -1,0 +1,3 @@
+KruskalMST{"tinyEWG.txt"}
+BoruvkaMST{"tinyEWG.txt"}
+BellmanFordSP{"tinyEWDn.txt","0"} 

@@ -1,0 +1,3 @@
+LookupCSV{"ip.CSV"}
+LookupIndex{"movies.txt","/"}
+FileIndex{"ex1.txt", "ex2.txt", "ex3.tex", "ex4.txt"}
